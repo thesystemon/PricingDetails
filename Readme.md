@@ -179,4 +179,79 @@ $$
 | Microscan Communications | Website VAPT (2 VA + 1 PT) + CERT-IN Certification | Remote | 30          | ₹27,000    | ₹900          |
 
 
+---
+
+
+## 🔐 **Cloud Penetration Testing Proposal – Unit-Based Pricing**
+
+### 🏢 Vendor: Microscan Communications
+
+📄 Certification: Includes CERT-IN certified security report
+📍 Region: India (INR pricing)
+🧪 Test Mode: Remote Black-Box & Configuration-based Assessment
+
+---
+
+### ✅ **Summary Table – Cloud VAPT for 20 Services**
+
+| No. | AWS Service                 | Description                                                 | Unit Scope Example | Price per Unit (INR) | Notes                |
+| --- | --------------------------- | ----------------------------------------------------------- | ------------------ | -------------------- | -------------------- |
+| 1   | S3 Bucket                   | Bucket ACL, public access, encryption, policy audit         | 1 Bucket           | ₹3,000               | 10 Buckets = ₹30,000 |
+| 2   | EC2 Instance                | OS, patch, open ports, IAM role review                      | 1 EC2              | ₹5,000               |                      |
+| 3   | Lambda Function             | IAM policies, input/output sanitization, event triggers     | 1 Function         | ₹4,000               |                      |
+| 4   | RDS Instance                | Database version, patching, encryption, public access       | 1 RDS Instance     | ₹5,000               |                      |
+| 5   | IAM Audit                   | Misuse of roles, unused accounts, MFA, privilege escalation | 100 Users/Roles    | ₹6,000               | Flat rate            |
+| 6   | CloudFront                  | CDN misconfiguration, origin leaks, TLS setup               | 1 Distribution     | ₹4,500               |                      |
+| 7   | VPC Configuration           | Subnetting, NACLs, FlowLogs, IGW security                   | 1 VPC              | ₹6,000               |                      |
+| 8   | Elastic Load Balancer (ELB) | HTTPS, backend integration, SSL issues                      | 1 ELB              | ₹4,000               |                      |
+| 9   | API Gateway                 | Rate limits, auth flaws, WAF rules, OWASP-10 issues         | 1 Gateway          | ₹3,500               |                      |
+| 10  | EKS Cluster                 | Node security, container scanning, secrets                  | 1 Cluster          | ₹8,000               |                      |
+| 11  | EFS / FSx                   | Mount points, sharing configuration, encryption             | 1 File System      | ₹3,500               |                      |
+| 12  | CloudTrail & CloudWatch     | Misconfigured log retention, alerts, data exfil monitoring  | Per Account        | ₹4,000               |                      |
+| 13  | AWS Config + Security Hub   | Compliance drift, rule enforcement                          | Per Account        | ₹5,000               |                      |
+| 14  | GuardDuty                   | Misuse, AWS resource abuse detection, tuning rules          | Per Account        | ₹3,500               |                      |
+| 15  | Secrets Manager             | Secret rotation, plaintext storage, audit logs              | Per Service        | ₹3,000               |                      |
+| 16  | WAF                         | OWASP-10 tuning, DDoS filtering                             | Per WAF            | ₹6,000               |                      |
+| 17  | Route 53                    | Public DNS records, misconfigured subdomains                | 1 Hosted Zone      | ₹3,000               |                      |
+| 18  | Step Functions              | Workflow chain abuse, insecure integration                  | Per Workflow       | ₹3,500               |                      |
+| 19  | CloudFormation / Terraform  | Infrastructure-as-code review                               | Per Template       | ₹2,500               |                      |
+| 20  | SQS / SNS                   | Encryption, policy leaks, unmonitored queues                | 1 Queue/Topic      | ₹2,500               |                      |
+
+---
+
+### 💰 **Pricing Summary**
+
+Let’s say you’re testing:
+
+* **10 S3 Buckets** → ₹30,000
+* **5 EC2 Instances** → ₹25,000
+* **5 Lambda Functions** → ₹20,000
+* **2 RDS Instances** → ₹10,000
+* **1 IAM Audit** → ₹6,000
+* **1 API Gateway** → ₹3,500
+
+✅ **Total = ₹94,500** (for this mix)
+🧾 Includes reporting, screenshots, and risk classification (High/Med/Low)
+
+---
+
+### 📎 Included Deliverables
+
+* Executive Summary Report (PDF)
+* Technical Report with Findings & Recommendations
+* CERT-IN Compliant Format
+* One Free Re-test (Post Remediation)
+* Email/Call-based support during audit
+
+---
+
+### 📌 Next Steps
+
+Would you like me to generate this in:
+
+* PDF Format
+* Excel Sheet (for customization)
+* Proposal Format (editable text)
+
+
 
