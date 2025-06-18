@@ -152,10 +152,31 @@ Cyberintelsys offers a **custom quotation-style** VAPT pricing with per-unit bre
 
 ---
 
-## 📝 Conclusion (Plain English):
+## 🧠 **4. Microscan Communications**
 
-* If you want **professional, well-managed service** → go with **Kratikal**.
-* If you want **custom pricing for specific number of APIs/IPs/pages** → go with **Cyberintelsys**.
-* If you want **basic testing at a cheaper price** → go with **Scan Sphere**.
+### 🔐 Company & Service Details:
+
+* **Company Name:** Microscan Communications
+* **Service:** Website VAPT (2 Vulnerability Assessments + 1 Penetration Test) with Security Assessment and **CERT-IN Certification**
+* **Mode:** Remote
+* **Total Pages:** 30
+* **Total Cost:** ₹27,000
 
 ---
+
+### 🧮 Per Page Calculation:
+
+$$
+\text{Per Page Cost} = \frac{₹27,000}{30} = ₹900
+$$
+
+---
+
+### 📌 Final Summary:
+
+| Company Name             | Service Offered                                    | Mode   | Total Pages | Total Cost | Per Page Cost |
+| ------------------------ | -------------------------------------------------- | ------ | ----------- | ---------- | ------------- |
+| Microscan Communications | Website VAPT (2 VA + 1 PT) + CERT-IN Certification | Remote | 30          | ₹27,000    | ₹900          |
+
+
+
